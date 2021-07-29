@@ -16,6 +16,13 @@ namespace CursoCSharp
                 {"Inferencia de tipos- Fundamentos", InferenciaDeTipos.Executar},
                 {"Interpolacao- Fundamentos", Interpolacao.Executar},
                 {"Lendo dados- Fundamentos", LendoDados.Executar},
+                {"Conversões- Fundamentos", Conversoes.Executar},
+                {"Formatando números- Fundamentos", FormatandoNumero.Executar},
+                {"Operadores aritmeticos- Fundamentos", OperadoresAritmeticos.Executar},
+                {"Operadores relacionais- Fundamentos", OperadoresRelacionais.Executar},
+                {"Operadores lógicos- Fundamentos", OperadoresLogicos.Executar},
+                {"Operadores unários- Fundamentos", OperadoresUnarios.Executar},
+                {"Operador ternário - Fundamentos", OperadorTernario.Executar},
             });
 
             central.SelecionarEExecutar();
