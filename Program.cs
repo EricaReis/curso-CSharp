@@ -23,7 +23,12 @@ namespace CursoCSharp
                 {"Operadores lógicos- Fundamentos", OperadoresLogicos.Executar},
                 {"Operadores unários- Fundamentos", OperadoresUnarios.Executar},
                 {"Operador ternário - Fundamentos", OperadorTernario.Executar},
+
+            // Classes e Métodos
             });
+
+
+
 
             central.SelecionarEExecutar();
         }
