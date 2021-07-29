@@ -1,0 +1,16 @@
+/home/erica/Projetos/dotnet1/bin/Debug/net5.0/dotnet1
+/home/erica/Projetos/dotnet1/bin/Debug/net5.0/dotnet1.deps.json
+/home/erica/Projetos/dotnet1/bin/Debug/net5.0/dotnet1.runtimeconfig.json
+/home/erica/Projetos/dotnet1/bin/Debug/net5.0/dotnet1.runtimeconfig.dev.json
+/home/erica/Projetos/dotnet1/bin/Debug/net5.0/dotnet1.dll
+/home/erica/Projetos/dotnet1/bin/Debug/net5.0/ref/dotnet1.dll
+/home/erica/Projetos/dotnet1/bin/Debug/net5.0/dotnet1.pdb
+/home/erica/Projetos/dotnet1/obj/Debug/net5.0/dotnet1.csproj.AssemblyReference.cache
+/home/erica/Projetos/dotnet1/obj/Debug/net5.0/dotnet1.GeneratedMSBuildEditorConfig.editorconfig
+/home/erica/Projetos/dotnet1/obj/Debug/net5.0/dotnet1.AssemblyInfoInputs.cache
+/home/erica/Projetos/dotnet1/obj/Debug/net5.0/dotnet1.AssemblyInfo.cs
+/home/erica/Projetos/dotnet1/obj/Debug/net5.0/dotnet1.csproj.CoreCompileInputs.cache
+/home/erica/Projetos/dotnet1/obj/Debug/net5.0/dotnet1.dll
+/home/erica/Projetos/dotnet1/obj/Debug/net5.0/ref/dotnet1.dll
+/home/erica/Projetos/dotnet1/obj/Debug/net5.0/dotnet1.pdb
+/home/erica/Projetos/dotnet1/obj/Debug/net5.0/dotnet1.genruntimeconfig.cache
