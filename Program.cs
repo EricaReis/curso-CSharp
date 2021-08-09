@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Fundamentos;
 
 namespace CursoCSharp
@@ -25,6 +25,7 @@ namespace CursoCSharp
                 {"Operador ternário - Fundamentos", OperadorTernario.Executar},
 
             // Classes e Métodos
+                {"Params - Fundamentos", Params.Executar},
             });
 
 
