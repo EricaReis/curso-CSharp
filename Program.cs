@@ -45,6 +45,7 @@ namespace CursoCSharp
 
             // Exceções
                 {"Primeira Exceção - Exceções", PrimeiraExcecao.Executar},
+                {"Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar},
             });
 
 
