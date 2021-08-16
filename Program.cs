@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Fundamentos;
+using CursoCSharp.MetodosEFuncoes;
+using CursoCSharp.Excecoes;
 
 namespace CursoCSharp
 {
@@ -35,6 +37,14 @@ namespace CursoCSharp
                 {"Métodos estáticos - Classes e Métodos", MetodosEstaticos.Executar},
                 {"Métodos com retorno - Classes e Métodos", MetodosComRetorno.Executar},
                 {"Membros - Classes e Métodos", Membros.Executar},
+
+            // Métodos e Funções
+                {"Exemplo lambda - Métodos e Funções", ExemploLambda.Executar},
+                {"Usando delegates - Métodos e Funções", UsandoDelegates.Executar},
+                {"Delegates com funções anônimas - Métodos e Funções", DelegateFunAnonima.Executar},
+
+            // Exceções
+                {"Primeira Exceção - Exceções", PrimeiraExcecao.Executar},
             });
 
 
