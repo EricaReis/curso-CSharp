@@ -25,7 +25,16 @@ namespace CursoCSharp
                 {"Operador ternário - Fundamentos", OperadorTernario.Executar},
 
             // Classes e Métodos
-                {"Params - Fundamentos", Params.Executar},
+                {"Params - Classes e Métodos", Params.Executar},
+                {"Params nomeados - Classes e Métodos", ParametrosNomeados.Executar},
+                {"Propriedades - Classes e Métodos", Props.Executar},
+                {"Construtores - Classes e Métodos", Construtores.Executar},
+                {"Atributos estáticos - Classes e Métodos", AtributosEstaticos.Executar},
+                {"Atributos readonly - Classes e Métodos", Readonly.Executar},
+                {"GetSet - Classes e Métodos", GetSet.Executar},
+                {"Métodos estáticos - Classes e Métodos", MetodosEstaticos.Executar},
+                {"Métodos com retorno - Classes e Métodos", MetodosComRetorno.Executar},
+                {"Membros - Classes e Métodos", Membros.Executar},
             });
 
 
