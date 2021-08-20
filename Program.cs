@@ -4,6 +4,7 @@ using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.Excecoes;
+using CursoCSharp.HashGame;
 
 namespace CursoCSharp
 {
@@ -46,6 +47,9 @@ namespace CursoCSharp
             // Exceções
                 {"Primeira Exceção - Exceções", PrimeiraExcecao.Executar},
                 {"Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar},
+
+            //HashGame
+                {"Jogo da Velha", Hash.Executar},
             });
 
 
